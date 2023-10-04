@@ -1,0 +1,56 @@
+.exercise-gallery {
+    display: flex;
+    background: #3f3f3f;
+    border-radius: 20px;
+    padding: 1rem;
+    width: 70%;
+    height: 60%;
+    color: #fff;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.exercise-gallery h1 {
+    font-size: 54px;
+}
+
+.gallery {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: 1;
+}
+
+.exercise {
+    position: relative;
+    width: 100%;
+}
+
+.button {
+    width: 125px;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-size: .8rem;
+    outline: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.button-exercise {
+    position: relative;
+    top: 0;
+    left: 0;
+    box-shadow: 0 8px 0 0 #283c6f;
+    background: #348cff;
+}
+
+.button-exercise:hover {
+    transform: translateY(8px);
+    box-shadow: 0 0 0 0;
+  }
