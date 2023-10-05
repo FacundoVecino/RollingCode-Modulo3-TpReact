@@ -21,7 +21,7 @@ const ExerciseGallery = () => {
                       <Link to="/exercise2">Ejercicio 2</Link>
                   </button>
                   <button className="button button-exercise" type="button" name="button">
-                      <Link to="#">Ejercicio 3</Link>
+                      <Link to="/exercise3">Ejercicio 3</Link>
                   </button>
                   <button className="button button-exercise" type="button" name="button">
                       <Link to="#">Ejercicio 4</Link>

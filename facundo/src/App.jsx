@@ -12,6 +12,7 @@ import NavbarMenu from './components/NavbarMenu/NavbarMenu.jsx'
 // Estilos
 import '/node_modules/bootstrap/dist/css/bootstrap.css'
 import '/node_modules/bootstrap/dist/js/bootstrap.js'
+import AppExercise3 from './components/Exercise/Exercise3/AppExercise3.jsx'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Route path='/' element={<ExerciseGallery/>} />
         <Route path='/exercise1' element={<Exercise1/>} />
         <Route path='/exercise2' element={<AppExercise2/>} />
+        <Route path='/exercise3' element={<AppExercise3/>} />
         <Route path='*' element={<Error404/>} />
       </Routes>
     </BrowserRouter>

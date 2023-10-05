@@ -1,7 +1,4 @@
 //--------------Importaciones---------------
-// Estilos
-import './Exercise2.css'
-
 // Componentes
 import FoundAnimation from '../../FoundAnimation/FoundAnimation'
 
