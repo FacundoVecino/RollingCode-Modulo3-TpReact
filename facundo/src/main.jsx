@@ -1,12 +1,17 @@
+//------------React Dependencias------------
+
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+
+//--------------Importaciones---------------
+// Estilos
 import './index.css'
-import FoundAnimation from './components/FoundAnimation/FoundAnimation.jsx'
-import ExerciseGallery from './components/ExerciseGallery/ExerciseGallery'
+
+// Componentes
+import App from './App.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ExerciseGallery />
-    <FoundAnimation />
+    <App />
   </React.StrictMode>,
 )

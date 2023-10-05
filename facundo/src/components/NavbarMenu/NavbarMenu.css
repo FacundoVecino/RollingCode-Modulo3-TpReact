@@ -1,0 +1,19 @@
+.navbar-light .navbar-brand {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar {
+    background: #3f3f3f;
+}
+
+.nav-img {
+    width: 50px;
+}
+
+.nav-img img {
+    width: 100%;
+}

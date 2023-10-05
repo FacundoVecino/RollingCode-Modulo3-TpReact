@@ -1,4 +1,5 @@
-
+//--------------Importaciones---------------
+// Estilos
 import './FoundAnimation.css'
 
 function FoundAnimation() {
