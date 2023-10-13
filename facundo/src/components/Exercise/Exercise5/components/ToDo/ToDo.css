@@ -1,12 +1,9 @@
 .to-do-container {
-    width: 500px;
+    width: 100%;
     min-height: 65px;
     background-color: #1b1b32;
     margin: 5px 0;
     padding: 8px 15px 8px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border-radius: 7px;
     cursor: pointer;
 }

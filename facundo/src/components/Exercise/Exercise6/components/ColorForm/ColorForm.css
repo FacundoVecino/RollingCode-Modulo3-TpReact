@@ -1,0 +1,22 @@
+.card-input {
+    width: 100%;
+    border: 4px #282828 solid !important;
+    border-radius: 5px !important;
+    background-color: #3f3f3f !important;
+}
+
+.card-header {
+    background-color: #3f3f3f !important;
+    border: none !important;
+}
+
+.card-footer {
+    background-color: #282828 !important;
+}
+
+.color-text {
+    padding: .5rem 1rem;
+    background-color: #282828;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+}
