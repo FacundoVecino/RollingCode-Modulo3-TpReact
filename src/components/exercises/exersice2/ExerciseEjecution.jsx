@@ -1,4 +1,4 @@
-import Excercise2 from "./Excercise2"
+import Excercise2 from "./Exercise2"
 
 const ExcerciseEjecution = () => {
   return (

@@ -1,4 +1,4 @@
-const Excercise2 = (props) => {
+const Exercise2 = (props) => {
     const {name} = props;
     return (
       <>
@@ -6,4 +6,4 @@ const Excercise2 = (props) => {
       </>
     )
   }
-  export default Excercise2
+  export default Exercise2
